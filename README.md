@@ -21,7 +21,7 @@ The tests read two input files:
 - `Well formed formulas.txt`
 - `Bad formed formulas.txt`
 
-> Each formula must be separated by commas (`,`), and may span multiple lines.
+Each formula must be separated by commas (`,`), and may span multiple lines.
 
 ## Principles and Design Patterns Applied
 
